@@ -2,6 +2,7 @@
 The design provides a complete college events web page with a database that keeps track of every attendee and activity.
 
 
+![image]https://static.businessworld.in/article/article_extra_large_image/1566790917_Um2lHl_events.jpg
 
 # 💫  About Me:
 
