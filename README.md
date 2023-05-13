@@ -1,8 +1,7 @@
 # Event-Management-System-with-Database
 The design provides a complete college events web page with a database that keeps track of every attendee and activity.
 
-
-![image][https://static.businessworld.in/article/article_extra_large_image/1566790917_Um2lHl_events.jpg]
+![image](https://agendabrussels.imgix.net/004a2b71108438b08b4c2d39af2e4173770c6408.jpg)
 
 # 💫  About Me:
 
