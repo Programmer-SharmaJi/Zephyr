@@ -5,13 +5,16 @@ The design provides a complete college events web page with a database that keep
 
 # 💫  About Me:
 
-WEBSITE FOR COLLEGE FEST INTEGRATED WITH DATABASE. This project has an operational website that is linked to a database that is managed by an admin panel.
+WEBSITE FOR COLLEGE FEST INTEGRATED WITH DATABASE. 
+
+This project has an operational website that is linked to a database that is managed by an admin panel.
+
 # ⚠︎ Problem Statement
 
-*Allows users to easily search for and register for events that interest them.
-*Displays up-to-date information about all upcoming events, ensuring that users have access to the latest information.
-*Offers a simple, streamlined registration process that allows users to quickly and easily sign up for events.
-*offers comprehensive editing and updating capabilities, allowing developers to easily add, remove, or modify events as needed Changes
+* Allows users to easily search for and register for events that interest them.
+* Displays up-to-date information about all upcoming events, ensuring that users have access to the latest information.
+* Offers a simple, streamlined registration process that allows users to quickly and easily sign up for events.
+* Offers comprehensive editing and updating capabilities, allowing developers to easily add, remove, or modify events as needed Changes
 
 
 # 🔭  Solution
