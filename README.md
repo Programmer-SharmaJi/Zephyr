@@ -1,4 +1,4 @@
-# Event-Management-System-with-Database
+# Event Management System with Database
 The design provides a complete college events web page with a database that keeps track of every attendee and activity.
 
 ![image](https://agendabrussels.imgix.net/004a2b71108438b08b4c2d39af2e4173770c6408.jpg)
@@ -57,7 +57,7 @@ A little intro about the installation if you are cloning our repoisterory
 $ git clone https://our link.com
 $ cd ../path/to/the/file/your folder
 $ npm install live server
-$ npm start
+
 
 Deployed wbsite is ready to work 
 
@@ -72,12 +72,4 @@ Note: To use the application in a special environment use ```Any keywords``` to 
 
 ## ➢  FAQs
 A list of frequently asked questions
-1. **how you will reach out to remote site ?**
-*_We have 3 solution for it :_
-Booth Calling
-Mentor Visit
-video calling
-2. __who can use this project?__
-*Everyone can use this project 
-3. **how weather updates can be done?**
-*Weather is updating from API with JSON language
+?
